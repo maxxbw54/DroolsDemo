@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="lib/drools-ant-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-api-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-bam-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-bpmn2-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-camel-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-clips-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-compiler-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-core-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-decisiontables-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-doc-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-grid-core-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-jsr94-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-persistence-jpa-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-process-task-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-simulator-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-spring-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-templates-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-verifier-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/drools-workitems-5.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-runtime-3.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="lib/mvel2-2.0.16.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.core_3.8.3.v20130121-145325.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
